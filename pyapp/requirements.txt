@@ -4,3 +4,5 @@ tinyaes==1.0.4
 sqlalchemy==2.0.7
 alembic==1.10.2
 httpx==0.26.0
+fastapi==0.110.0
+uvicorn==0.28.0
